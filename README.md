@@ -1,5 +1,0 @@
-# Qontigo
-XX
-YY
-
-ZZ
